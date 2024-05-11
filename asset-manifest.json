@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/http//TravisAshcraft.github.io/xn/static/css/main.37fbdb2c.css",
+    "main.js": "/http//TravisAshcraft.github.io/xn/static/js/main.8e2ee390.js",
+    "static/js/453.ba570d9a.chunk.js": "/http//TravisAshcraft.github.io/xn/static/js/453.ba570d9a.chunk.js",
+    "static/media/destruction.png": "/http//TravisAshcraft.github.io/xn/static/media/destruction.a7009efa3a13bc46317e.png",
+    "static/media/heidi.jpeg": "/http//TravisAshcraft.github.io/xn/static/media/heidi.e38e7c9974d222463eae.jpeg",
+    "static/media/logo.svg": "/http//TravisAshcraft.github.io/xn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/http//TravisAshcraft.github.io/xn/index.html",
+    "main.37fbdb2c.css.map": "/http//TravisAshcraft.github.io/xn/static/css/main.37fbdb2c.css.map",
+    "main.8e2ee390.js.map": "/http//TravisAshcraft.github.io/xn/static/js/main.8e2ee390.js.map",
+    "453.ba570d9a.chunk.js.map": "/http//TravisAshcraft.github.io/xn/static/js/453.ba570d9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37fbdb2c.css",
+    "static/js/main.8e2ee390.js"
+  ]
+}
